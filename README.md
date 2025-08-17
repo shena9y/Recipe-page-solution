@@ -2,9 +2,12 @@
 
 This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
 
-### Screenshot
+### Desktop Screenshot
 
 ![Desktop Screenshot](/images/desktopScreenshot.png)
+
+### Mobile Screenshot
+
 ![Mobile Screenshot](/images/mobileScreenshot%20.png)
 
 ### Links
@@ -22,3 +25,5 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 - Website - [Mohammed Hamdy](https://github.com/shena9y)
 - Frontend Mentor - [@shena9y](https://www.frontendmentor.io/profile/shena9y)
+
+## [Live Website](https://shena9y.github.io/Recipe-page-solution/)
