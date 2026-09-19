@@ -1,10 +1,12 @@
-# Recipe Page — Frontend Mentor Solution
+﻿# Recipe Page — Frontend Mentor Solution
 
 A solution to the **Recipe page** challenge from [Frontend Mentor](https://www.frontendmentor.io). The page presents a clean, readable recipe card for a "Simple Omelette", including preparation time, ingredients, step-by-step instructions, and a nutrition table.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge-3e54a3)
+
+🔗 **Live Demo:** [https://shena9y.github.io/Recipe-page-solution/](https://shena9y.github.io/Recipe-page-solution/)
 
 ## ✨ Features
 
@@ -32,6 +34,8 @@ A solution to the **Recipe page** challenge from [Frontend Mentor](https://www.f
 
 ## 🚀 Getting Started
 
+**Try it live:** [https://shena9y.github.io/Recipe-page-solution/](https://shena9y.github.io/Recipe-page-solution/) — no installation needed!
+
 No build step required:
 
 ```bash
@@ -43,3 +47,4 @@ start index.html   # or open it in any browser
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
